@@ -1,0 +1,16 @@
+# Maven artifacts
+target/
+*.war
+*.ear
+*.jar
+
+# NetBeans specific files
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# OS specific files
+.DS_Store
+Thumbs.db
